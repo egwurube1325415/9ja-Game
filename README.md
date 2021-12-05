@@ -5,7 +5,7 @@
 
 ```
 
-Check out [FRONTEND LIVE DEMO](https://https://petagame.netlify.app/) here!!
+Check out [FRONTEND LIVE DEMO](https://petagame.netlify.app/) here!!
 
 
 
